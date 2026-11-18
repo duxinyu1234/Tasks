@@ -8,7 +8,7 @@
 | 2    | 虽然对于使用typora不那么陌生，但是还是有很多操作功能方面不了解 | 看抖音的讲解               | 边用抖音边用GPT解决疑问                                      |
 | 3    | Markdown里图片链接/徽章在Typora预览正常，传到GitHub上不显示  | 检查图片地址是不是本地路径 | 全部使用在线网络图片链接，不要引用电脑本地图片               |
 
-![image-20261118175727585](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20261118175727585.png)
+![图](屏幕截图 2026-11-17 211613.png)
 
 ## 记录格式说明
 
