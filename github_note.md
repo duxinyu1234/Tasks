@@ -25,7 +25,7 @@ Geek精神：保持好奇心，自主学习，遇到问题先自己检索尝试�
 3. 排版整齐，列表分段清晰；
 4. 不使用杂乱特殊符号，方便别人阅读。
 
-## 5. Git Bash完整提交推送流程（任务1）
+## 5. Git Bash完整提交推送流程
 ```bash
 # 1. 进入仓库文件夹
 cd 你的仓库路径
@@ -39,3 +39,6 @@ git commit -m "add hello.md"
 git remote add origin https://github.com/duxinyu1234/Tasks.git
 # 6. 推送到远程main分支
 git push origin main
+
+我还在联想应用商店下载了desktop，其实还可以用GitHub Desktop图形化工具，可视化操作，不用敲命令，适合新手；也可以直接网页上传文件。
+缺点：过度依赖图形化工具会不熟悉底层Git命令。
