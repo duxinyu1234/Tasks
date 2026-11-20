@@ -24,3 +24,18 @@ Geek精神：保持好奇心，自主学习，遇到问题先自己检索尝试�
 2. Markdown标题层级清晰，#、##依次使用，（其实我觉得ctrl+数字更方便，毕竟每个人想法不一样，还是根据自己的习惯来）
 3. 排版整齐，列表分段清晰；
 4. 不使用杂乱特殊符号，方便别人阅读。
+
+## 5. Git Bash完整提交推送流程（任务1）
+```bash
+# 1. 进入仓库文件夹
+cd 你的仓库路径
+# 2. 初始化git（第一次才需要）
+git init
+# 3. 把文件加入暂存区
+git add hello.md
+# 4. 填写本次提交说明
+git commit -m "add hello.md"
+# 5. 关联远程仓库
+git remote add origin https://github.com/duxinyu1234/Tasks.git
+# 6. 推送到远程main分支
+git push origin main
