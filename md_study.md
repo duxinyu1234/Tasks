@@ -62,7 +62,11 @@ int main() {
 ### 6. 链接与图片
 
 - 链接：`https://github.com/duxinyu1234`
-- 图片：`![image-20261117232426936](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20261117232426936.png)7. 表格
+- 图片：`![截图1](https://cdn.jsdelivr.net/gh/duxinyu1234/Tasks@main/images/scr2.png)
+
+
+
+)7. 表格
 
 ```markdown
 | 序号 | 问题 | 解决办法 |
