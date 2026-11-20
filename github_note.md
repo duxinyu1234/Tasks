@@ -16,7 +16,8 @@ Geek精神：保持好奇心，自主学习，遇到问题先自己检索尝试�
 
 我还尝试向GPT询问原因，最好虽然登上去了但是还是有点卡卡的，能正常使用（用樱花猫VPN之后要好点）
 
-![image-20261117211642714](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20261117211642714.png)
+![GitHub访问慢截图](./images/scr1.png)
+
 
 ## 4. 文档规范
 我遵循的规范：
