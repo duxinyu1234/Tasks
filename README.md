@@ -1,7 +1,9 @@
 # Tasks
 📖 导航：
 - [Github学习笔记](./github_note.md)
-- [Git学习笔记](./git_note.md)
+- [markdown学习笔记](./md_stduy.md)
+- [markdown学习笔记](./md_practice.md)
+- [markdown进阶学习笔记](./md_advanced.md)
 - [hello.md](./hello.md)
-- [问题记录 problem.md](./problem.md)
-- [进阶笔记 git_advanced.md](./git_advanced.md)
+- [问题记录](./problem.md)
+- [git进阶笔记](./git_advanced.md)
