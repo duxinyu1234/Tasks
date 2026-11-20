@@ -13,8 +13,8 @@
 ![截图1](https://cdn.jsdelivr.net/gh/duxinyu1234/Tasks@main/images/scr4.png)
 
 
-
-
+特殊思考：把图片上传之后发现还是加载不出来，百思不得其解。最后在豆包的帮助下发现国内网络环境会拦截GitHub的图片资源，原生链接加载失败。
+所以要使用 jsdelivr CDN作为图床，构造加速链接。所以这个大问题完美解决感觉通透了。
 
 
 ## 记录格式说明
