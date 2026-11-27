@@ -7,4 +7,4 @@
 - [hello.md](./hello.md)
 - [问题记录](./problem.md)
 - [git进阶笔记](./git_advanced.md)
--[duxinyu1234/duxinyu1234](https://gitee.com/duxinyu1234/duxinyu1234)
+- [duxinyu1234](https://github.com/duxinyu1234/duxinyu1234)
