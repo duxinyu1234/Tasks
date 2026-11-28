@@ -1,15 +1,4 @@
 # Tasks
-📖 导航：
-- [Github学习笔记](./github_note.md)
-- [markdown学习笔记](./md_stduy.md)
-- [markdown学习笔记](./md_practice.md)
-- [markdown进阶学习笔记](./md_advanced.md)
-- [hello.md](./hello.md)
-- [问题记录](./problem.md)
-- [git进阶笔记](./git_advanced.md)
-- [duxinyu1234](https://github.com/duxinyu1234/duxinyu1234)
-
-# Tasks
 作者：杜新宇
 中南民族大学 26级 网络空间安全专业
 
@@ -27,10 +16,12 @@ https://duxinyu1234.github.io/Tasks/
 ---
 
 ## 📂 往期练习（历史学习记录，仅供参考）
+📖 导航：
 - [Github学习笔记](./github_note.md)
-- [Markdown学习笔记](./md_study.md)
-- [Markdown进阶学习笔记](./md_advanced.md)
-- [Markdown练习笔记](./md_practice.md)
+- [markdown学习笔记](./md_stduy.md)
+- [markdown学习笔记](./md_practice.md)
+- [markdown进阶学习笔记](./md_advanced.md)
 - [hello.md](./hello.md)
 - [问题记录](./problem.md)
 - [git进阶笔记](./git_advanced.md)
+- [duxinyu1234](https://github.com/duxinyu1234/duxinyu1234)
